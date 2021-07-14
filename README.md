@@ -12,4 +12,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalegama&show_icons=true&locale=en" alt="yalegama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yalegama&" alt="yalegama" /></p>
-
